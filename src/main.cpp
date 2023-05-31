@@ -13,7 +13,7 @@ void setup() {
 }
 
 void loop() {
-  // Variation de la valeur du signal PWM
+  // Variation de la valeur du signal
   
   // Augmentation progressive de la valeur
     ledcWrite(channel, 25);
