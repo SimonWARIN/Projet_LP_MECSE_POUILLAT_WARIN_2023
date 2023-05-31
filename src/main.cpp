@@ -16,8 +16,51 @@ void loop() {
   // Variation de la valeur du signal
   
   // Augmentation progressive de la valeur
-    ledcWrite(channel, 25);
-    delay(1000);
     ledcWrite(channel, 12);
-    delay(1000);
+    delay(500);
+    ledcWrite(channel, 13);
+    delay(500);
+    ledcWrite(channel, 14);
+    delay(500);
+    ledcWrite(channel, 15);
+    delay(500);    
+    ledcWrite(channel, 16);
+    delay(500);
+    ledcWrite(channel, 17);
+    delay(500);
+    ledcWrite(channel, 18);
+    delay(500);
+    ledcWrite(channel, 19);
+    delay(500);
+    ledcWrite(channel, 20);
+    delay(500);
+    ledcWrite(channel, 21);
+    delay(500);    
+    ledcWrite(channel, 22);
+    delay(500);
+    ledcWrite(channel, 23);
+    delay(500);
+    ledcWrite(channel, 22);
+    delay(500);
+    ledcWrite(channel, 21);
+    delay(500);
+    ledcWrite(channel, 20);
+    delay(500);
+    ledcWrite(channel, 19);
+    delay(500);    
+    ledcWrite(channel, 18);
+    delay(500);
+    ledcWrite(channel, 17);
+    delay(500);
+    ledcWrite(channel, 16);
+    delay(500);
+    ledcWrite(channel, 15);
+    delay(500);
+    ledcWrite(channel, 14);
+    delay(500);
+    ledcWrite(channel, 13);
+    delay(500);    
+    ledcWrite(channel, 12);
+    delay(500);
+
 }
